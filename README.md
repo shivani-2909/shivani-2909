@@ -23,12 +23,12 @@
 ##   GitHub Stats📊
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivani-2909&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivani-2909&theme=vision_friendly_dark)
    
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivani-2909&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivani-2909&theme=vision_friendly_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivani-2909&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivani-2909&theme=vision_friendly_dark)
 
 
 
