@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love reading books!**
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sheetal59&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shivani-2909&theme=aura)](https://git.io/streak-stats)
 
 
 <h3 align="centre">Languages and Tools:</h3>
