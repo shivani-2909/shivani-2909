@@ -23,12 +23,12 @@
 ##   GitHub Stats📊
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivani-2909&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivani-2909&theme=aura)
    
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivani-2909&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivani-2909&theme=aura)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivani-2909&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivani-2909&theme=aura)
 
 
 
@@ -45,5 +45,10 @@
    
 <a href="https://www.hackerrank.com/profile/arorashivani0031" target="_blank"><img src=	"https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" img height="21" alt="Hackerrank"></a>
 </div>
+
+
+
+
+![snake gif](https://github.com/shivani-2909/shivani-2909/blob/output/github-contribution-grid-snake.gif)
 
 
