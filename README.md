@@ -1,4 +1,6 @@
-<div align="center"; backgound-color:#FFCCCC>
+<div align="center" style="background-color:#FFCCCC;">
+
+   
 <h1 >Hi 👋, I'm Shivani Arora</h1>
 <h3 >A passionate java programmer, python programmer, data analyst!!</h3>
 <img align='center' alt='Coding' width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
